@@ -1,30 +1,21 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: FlauschCraft
+featuredImage: https://ucarecdn.com/0639705a-5096-4896-8308-d749f4573cec/-/preview/-/enhance/58/
+subtitle: Einzigartiges aus dem 3D Drucker
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Einzigartiges aus dem 3D Drucker
+  title: FlauschCraft
 ---
+#### Individuelle 3D Drucke
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Sende uns deine Wünsche mit deinen Namen, Daten und Texten
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+#### Prototypen
 
-# Features
+Wir drucken dein selbst erstelltes Design in bester Qualität
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+#### Einzigartige Geschenke
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Du findest unsere sofort verfügbaren Produkte im FlauschCraft **[Etsy](https://www.etsy.com/flauschcraft)** Shop
